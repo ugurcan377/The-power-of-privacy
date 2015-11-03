@@ -3,7 +3,7 @@ The power of privacy
 
 The Guardian'ın<sup>[1](#theguardian)</sup>, Silent Circle<sup>[2](#silentcircle)</sup> sponsorluğunda 
 hazırladığı "The power of privacy"<sup>[3](#video-series)</sup> serisine ait alt yazı dosyalarının çevrilmesi ve 
-yerelleştirilmesi sonrasında seri video'ların Türkçe alt yazılarla birlikte yayınlanacağı; basit bir 
+yerelleştirilmesi, sonrasında seri video'ların Türkçe alt yazılarla birlikte yayınlanacağı; basit bir 
 web sayfasını barındırması amacıyla oluşturulmuştur.   
 
 * <a name="theguardian">1</a>: http://www.theguardian.com
