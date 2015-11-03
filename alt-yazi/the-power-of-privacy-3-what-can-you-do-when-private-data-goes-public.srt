@@ -1,0 +1,508 @@
+1
+00:00:04,240 --> 00:00:07,440
+Often companies and individuals
+who are in the public eye
+
+2
+00:00:07,600 --> 00:00:09,640
+are targeted on the Internet.
+
+3
+00:00:09,800 --> 00:00:12,960
+Throughout the 2000s
+I was a fixture on UK television.
+
+4
+00:00:13,120 --> 00:00:14,880
+Thankfully I haven't fallen victim
+
+5
+00:00:15,040 --> 00:00:18,640
+to my personal or professional data
+being hacked or leaked,
+
+6
+00:00:18,800 --> 00:00:20,240
+but what if I had?
+
+7
+00:00:20,400 --> 00:00:21,840
+I'm going to meet three experts
+
+8
+00:00:22,000 --> 00:00:25,280
+who specialise in taking control back
+when the worst happens.
+
+9
+00:00:30,200 --> 00:00:33,440
+I'm travelling to Romania
+to speak with Mario Gonzales.
+
+10
+00:00:33,600 --> 00:00:36,480
+He was in a legal battle for a decade
+with Google, and in the end,
+
+11
+00:00:36,640 --> 00:00:40,400
+he was successful in his quest
+to remove a document from their index
+
+12
+00:00:40,560 --> 00:00:42,440
+that compromised his reputation.
+
+13
+00:00:43,320 --> 00:00:46,600
+In doing so, he helped to herald
+in a new statutory right
+
+14
+00:00:46,760 --> 00:00:50,040
+that's been exercised
+by over 200,000 European citizens -
+
+15
+00:00:50,200 --> 00:00:51,840
+the right to be forgotten.
+
+16
+00:00:52,000 --> 00:00:55,720
+Why was getting your data
+removed from the search engine
+
+17
+00:00:55,880 --> 00:00:57,480
+such a significant battle for you?
+
+18
+00:00:57,640 --> 00:01:01,920
+It was important
+as a matter of principle.
+
+19
+00:01:02,080 --> 00:01:05,600
+I thought, "Why should
+my personal data be out there?
+
+20
+00:01:05,760 --> 00:01:07,480
+"I don't want it to be."
+
+21
+00:01:07,640 --> 00:01:13,560
+This new law allows us to remove data
+
+22
+00:01:13,720 --> 00:01:18,440
+that is incorrect or harmful
+to individuals from search engines.
+
+23
+00:01:18,600 --> 00:01:20,360
+One of the problems with your case
+
+24
+00:01:20,520 --> 00:01:24,000
+is because you took Google to court
+to get rid of the information
+
+25
+00:01:24,160 --> 00:01:28,080
+that information is the first thing
+that comes up on your Wikipedia page.
+
+26
+00:01:28,240 --> 00:01:30,560
+It's a paradox.
+
+27
+00:01:30,720 --> 00:01:32,280
+Yes, it's a paradox.
+
+28
+00:01:32,440 --> 00:01:35,880
+At this moment
+it is practically impossible
+
+29
+00:01:36,040 --> 00:01:39,280
+to completely remove something
+from the Internet.
+
+30
+00:01:39,440 --> 00:01:44,600
+But the multiplying effect
+of a search engine is very important.
+
+31
+00:01:45,720 --> 00:01:48,200
+I'm meeting with Alastair,
+who works with businesses
+
+32
+00:01:48,360 --> 00:01:51,880
+advising them on managing their
+online reputations in Data Shadows.
+
+33
+00:01:52,040 --> 00:01:54,280
+Will the situation for companies
+be similar
+
+34
+00:01:54,440 --> 00:01:57,720
+when they find undesirable material
+has been leaked online?
+
+35
+00:01:57,880 --> 00:02:01,640
+When you've published something
+online, you've lost control of it.
+
+36
+00:02:01,800 --> 00:02:05,280
+Be conscious that if you put
+something on the Internet,
+
+37
+00:02:05,440 --> 00:02:10,000
+there's no guarantee that it stays
+secure and under your control.
+
+38
+00:02:10,160 --> 00:02:13,400
+Companies need to have
+some sort of incident-handling plan
+
+39
+00:02:13,560 --> 00:02:16,120
+to know when something does occur,
+and it will,
+
+40
+00:02:16,280 --> 00:02:20,080
+how they are going to respond to that
+so it isn't a panic in the business.
+
+41
+00:02:20,240 --> 00:02:23,360
+Many companies have moved
+to adopt the new technologies
+
+42
+00:02:23,520 --> 00:02:27,640
+because they bring business benefit,
+but they've not thought about the risks.
+
+43
+00:02:27,800 --> 00:02:31,720
+How do you ensure that information
+doesn't make you vulnerable?
+
+44
+00:02:31,880 --> 00:02:33,800
+It really depends where the data is,
+
+45
+00:02:33,960 --> 00:02:38,440
+so if it's linked through somewhere
+like Google, Twitter, Facebook,
+
+46
+00:02:38,600 --> 00:02:41,400
+there are removable procedures
+you can go through.
+
+47
+00:02:41,560 --> 00:02:44,480
+But if your data is
+on a Russian hacker site somewhere,
+
+48
+00:02:44,640 --> 00:02:47,240
+they're unlikely to respond
+to a take-down request.
+
+49
+00:02:47,400 --> 00:02:50,160
+The best you can do is try
+to mitigate the consequences.
+
+50
+00:02:51,200 --> 00:02:54,880
+So, for businesses and individuals,
+once the information is out,
+
+51
+00:02:55,040 --> 00:02:58,600
+it seems nearly impossible
+to take back control of it.
+
+52
+00:02:59,880 --> 00:03:02,560
+Since the earliest days
+of human communication,
+
+53
+00:03:02,720 --> 00:03:06,080
+we quickly learn the importance
+of confidentiality.
+
+54
+00:03:07,160 --> 00:03:08,680
+It's been good business.
+
+55
+00:03:08,840 --> 00:03:12,200
+3,000 years ago in the Middle East
+potters used cryptography
+
+56
+00:03:12,360 --> 00:03:15,880
+to keep their glaze formula
+secret from competitors.
+
+57
+00:03:16,040 --> 00:03:18,400
+Particularly during conflict.
+
+58
+00:03:18,560 --> 00:03:22,960
+Protecting correspondence has
+always been of the utmost importance.
+
+59
+00:03:23,120 --> 00:03:27,280
+But it wasn't just military and business
+information we sought to protect.
+
+60
+00:03:27,440 --> 00:03:30,520
+In 400 BC
+the writers of the Kama Sutra
+
+61
+00:03:30,680 --> 00:03:33,360
+recommended that lovers
+encrypt their messages
+
+62
+00:03:33,520 --> 00:03:36,040
+to keep them from prying eyes.
+
+63
+00:03:36,200 --> 00:03:37,520
+Now in the 21st century
+
+64
+00:03:37,680 --> 00:03:40,840
+we're exchanging more business
+and personal information
+
+65
+00:03:41,000 --> 00:03:42,360
+than ever before,
+
+66
+00:03:42,520 --> 00:03:45,200
+though we've relinquished control
+of this data
+
+67
+00:03:45,360 --> 00:03:47,520
+to governments and corporations.
+
+68
+00:03:47,680 --> 00:03:50,480
+Often instead of safekeeping
+this material,
+
+69
+00:03:50,640 --> 00:03:53,440
+we've found
+that they're exploiting it.
+
+70
+00:03:55,560 --> 00:03:59,160
+To learn about preventative
+techniques I'm travelling to Berlin
+
+71
+00:03:59,320 --> 00:04:02,560
+to meet with Stephanie Hankey
+from Tactical Technology.
+
+72
+00:04:02,720 --> 00:04:06,320
+Their organisation works
+to provide tips, tools and techniques
+
+73
+00:04:06,480 --> 00:04:08,920
+for individuals,
+like journalists and activists
+
+74
+00:04:09,080 --> 00:04:13,320
+whose lives depend upon retaining
+control of their digital activities.
+
+75
+00:04:13,480 --> 00:04:15,040
+If you're interviewing people,
+
+76
+00:04:15,200 --> 00:04:17,920
+it may be as important
+that somebody from the outside
+
+77
+00:04:18,080 --> 00:04:19,560
+can't see who you're talking to.
+
+78
+00:04:19,720 --> 00:04:23,400
+A phone call that we might have,
+we might think it needs to be encrypted,
+
+79
+00:04:23,560 --> 00:04:26,040
+so people don't know
+what we're talking about.
+
+80
+00:04:26,200 --> 00:04:30,000
+Very often what's more important
+is that we're having a conversation,
+
+81
+00:04:30,160 --> 00:04:33,720
+but also we talked last week
+and that today we talked for an hour.
+
+82
+00:04:33,880 --> 00:04:35,400
+That's metadata.
+
+83
+00:04:35,560 --> 00:04:38,400
+What other forms of data
+might be collected about me?
+
+84
+00:04:38,560 --> 00:04:42,120
+In a city, for the phone to know
+where you are, to look at a map,
+
+85
+00:04:42,280 --> 00:04:44,320
+you have to have location data on.
+
+86
+00:04:44,480 --> 00:04:47,600
+If you look on your iPhone,
+in the System Services section...
+
+87
+00:04:49,120 --> 00:04:52,120
+Lo and behold, down,
+somewhere buried in the menu.
+
+88
+00:04:52,280 --> 00:04:54,600
+There's a "frequent locations".
+
+89
+00:04:54,760 --> 00:04:58,000
+Most people are surprised.
+It gives an overview of something.
+
+90
+00:04:58,160 --> 00:04:59,600
+It guesses what your home is.
+
+91
+00:04:59,760 --> 00:05:01,840
+When you start
+to look at the patterns,
+
+92
+00:05:02,000 --> 00:05:05,840
+you see things like probably when
+you come into the house after work,
+
+93
+00:05:06,000 --> 00:05:07,640
+when you leave in the morning.
+
+94
+00:05:07,800 --> 00:05:10,600
+What you can do
+is switch off Location Services.
+
+95
+00:05:10,760 --> 00:05:14,240
+So what are companies
+doing with this metadata?
+
+96
+00:05:14,400 --> 00:05:16,960
+These companies
+are not yet transparent about it.
+
+97
+00:05:17,120 --> 00:05:20,800
+Some is profiling and advertising.
+Some of it has gone much further.
+
+98
+00:05:20,960 --> 00:05:25,240
+For example, LinkedIn is using their
+large-scale analysis of the data
+
+99
+00:05:25,400 --> 00:05:28,640
+to advise governments
+and that becomes complicated.
+
+100
+00:05:28,800 --> 00:05:31,440
+People are not thinking
+they're contributing to that.
+
+101
+00:05:32,640 --> 00:05:36,840
+Personal data
+is the oil of the 21st century.
+
+102
+00:05:37,520 --> 00:05:42,240
+All technological companies
+are gathering and using data
+
+103
+00:05:42,400 --> 00:05:46,480
+as they know it is now essential
+to their business.
+
+104
+00:05:48,080 --> 00:05:52,200
+But what happens if this data
+was accessible for us all to use,
+
+105
+00:05:52,360 --> 00:05:55,960
+rather than just a handful
+of companies?
+
+106
+00:05:56,640 --> 00:05:59,880
+In the next episode, I'll dive
+into open data to show the power
+
+107
+00:06:00,040 --> 00:06:01,920
+of digital collaboration.
+

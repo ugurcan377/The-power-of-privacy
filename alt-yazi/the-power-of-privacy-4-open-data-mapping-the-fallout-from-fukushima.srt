@@ -1,0 +1,527 @@
+1
+00:00:04,440 --> 00:00:08,360
+In the modern world, a huge amount
+of information is collected about us
+
+2
+00:00:08,520 --> 00:00:10,480
+as we go about our daily lives.
+
+3
+00:00:10,640 --> 00:00:13,520
+Whether we disclose it
+willingly or unwittingly,
+
+4
+00:00:13,680 --> 00:00:16,320
+this valuable data is now a commodity
+
+5
+00:00:16,480 --> 00:00:19,640
+that is traded
+amongst a handful of companies.
+
+6
+00:00:19,800 --> 00:00:23,480
+But what if there was a way to
+harness it for the collective good?
+
+7
+00:00:23,640 --> 00:00:25,920
+In this episode I'll use my data
+
+8
+00:00:26,080 --> 00:00:29,560
+to help map the fallout
+of the Fukushima nuclear disaster.
+
+9
+00:00:34,120 --> 00:00:36,600
+Trading data is hardly a new thing.
+
+10
+00:00:36,760 --> 00:00:39,640
+We've always benefitted
+from sharing information.
+
+11
+00:00:39,800 --> 00:00:42,000
+It's helped to advance civilisation.
+
+12
+00:00:42,160 --> 00:00:44,840
+The internet is the latest
+in a long line of technologies
+
+13
+00:00:45,000 --> 00:00:48,440
+that have ushered in
+great innovations and social change.
+
+14
+00:00:48,600 --> 00:00:52,160
+Trade routes introduced mathematics
+and astronomy from Arabia,
+
+15
+00:00:52,320 --> 00:00:54,400
+weapons and vaccinations from China
+
+16
+00:00:54,560 --> 00:00:57,360
+and spices and philosophies
+from the subcontinent.
+
+17
+00:00:57,520 --> 00:01:00,600
+The printing press
+blew apart traditional hierarchies,
+
+18
+00:01:00,760 --> 00:01:02,920
+letting the people
+interpret and proclaim,
+
+19
+00:01:03,080 --> 00:01:04,960
+rather than those in power.
+
+20
+00:01:05,120 --> 00:01:08,000
+The telegraph
+brought the world closer together,
+
+21
+00:01:08,160 --> 00:01:11,400
+disrupting business,
+governance and the judicial system.
+
+22
+00:01:11,560 --> 00:01:16,800
+And every step of the way the powers
+that be tried to claw back control.
+
+23
+00:01:16,960 --> 00:01:20,680
+Today there are three-billion people
+communicating through the internet.
+
+24
+00:01:20,840 --> 00:01:24,160
+This latest network has given
+each of us the empowering ability
+
+25
+00:01:24,320 --> 00:01:29,320
+to collaborate, share and exchange
+information rapidly and efficiently.
+
+26
+00:01:32,800 --> 00:01:36,720
+I'm headed to Japan where I'm going
+to volunteer to test radiation levels
+
+27
+00:01:36,880 --> 00:01:39,840
+using a community-built
+Geiger counter.
+
+28
+00:01:42,480 --> 00:01:47,200
+After the disaster in March 2011,
+information about radiation hazards
+
+29
+00:01:47,360 --> 00:01:49,720
+that was being released
+by the government
+
+30
+00:01:49,880 --> 00:01:53,360
+was at best incomplete,
+often contradictory
+
+31
+00:01:53,520 --> 00:01:55,600
+and ultimately not really reliable.
+
+32
+00:01:56,360 --> 00:01:58,600
+So we felt it was one thing to say,
+
+33
+00:01:58,760 --> 00:02:03,640
+"My government tells me radiation
+level is X. I guess I'll believe it."
+
+34
+00:02:03,800 --> 00:02:05,560
+Or to go and measure it yourself.
+
+35
+00:02:05,720 --> 00:02:08,960
+If you measure it yourself, you can
+have confidence in that data.
+
+36
+00:02:09,120 --> 00:02:11,920
+SafeCast was really formed
+to allow citizens
+
+37
+00:02:12,080 --> 00:02:16,240
+to gather the information they needed
+and to disseminate it in a free way.
+
+38
+00:02:17,840 --> 00:02:20,400
+SafeCast Geiger kits are open-source.
+
+39
+00:02:20,560 --> 00:02:24,000
+Through building the devices,
+people learn how the technology works
+
+40
+00:02:24,160 --> 00:02:26,360
+and as a consequence
+many have offered
+
+41
+00:02:26,520 --> 00:02:29,840
+both hardware
+and software improvements.
+
+42
+00:02:30,000 --> 00:02:32,800
+This has helped
+to rapidly evolve the design.
+
+43
+00:02:32,960 --> 00:02:37,800
+In 18 months SafeCast
+went from a very large bulky system
+
+44
+00:02:37,960 --> 00:02:40,280
+with a detector
+on the outside of the car
+
+45
+00:02:40,440 --> 00:02:43,160
+that required
+being tethered to a laptop
+
+46
+00:02:43,320 --> 00:02:47,040
+down to this very small nano,
+which is the current unit.
+
+47
+00:02:47,200 --> 00:02:49,040
+Seven separate designs in 18 months.
+
+48
+00:02:49,200 --> 00:02:53,520
+We think it's more than any startup
+in any universe has ever done.
+
+49
+00:02:53,680 --> 00:02:55,720
+If I were a company
+or an institution,
+
+50
+00:02:55,880 --> 00:02:57,720
+how long would it take me to do one?
+
+51
+00:02:57,880 --> 00:03:00,760
+Sometimes two years
+for a new product.
+
+52
+00:03:00,920 --> 00:03:02,400
+Nobody does it so quickly.
+
+53
+00:03:02,560 --> 00:03:04,320
+The only reason
+we're able to do it
+
+54
+00:03:04,480 --> 00:03:07,720
+is because we leverage these
+open-source tools to speed this up.
+
+55
+00:03:07,880 --> 00:03:10,680
+You opened it up and said "This is
+what we're thinking about doing"
+
+56
+00:03:10,840 --> 00:03:14,040
+The community came back and said
+you could do it... better this way?
+
+57
+00:03:14,200 --> 00:03:18,320
+It's a bit chaotic in ways, but
+it's very quick, agile and flexible.
+
+58
+00:03:19,120 --> 00:03:21,920
+People from all sorts of walks
+of life participate -
+
+59
+00:03:22,080 --> 00:03:24,040
+anti-nuclear or pro-nuclear.
+
+60
+00:03:24,200 --> 00:03:27,800
+Teachers, housewives -
+anyone can build it and submit data.
+
+61
+00:03:29,120 --> 00:03:33,280
+How can organisations wisely protect
+the data that they're collecting?
+
+62
+00:03:33,440 --> 00:03:37,040
+The most important thing we found
+the need to protect is privacy.
+
+63
+00:03:37,200 --> 00:03:42,200
+The privacy of volunteers. We allow
+them to participate anonymously.
+
+64
+00:03:42,360 --> 00:03:47,160
+In Fukushima Prefecture
+there was concern that people
+
+65
+00:03:47,320 --> 00:03:50,920
+would have radiation levels
+in their front yard publicised
+
+66
+00:03:51,080 --> 00:03:53,240
+and that this could
+affect them negatively.
+
+67
+00:03:53,400 --> 00:03:57,440
+Because of that, we decided
+to use a hardware hack
+
+68
+00:03:57,600 --> 00:04:01,040
+to allow them to put the data
+in a grid of 100 metres
+
+69
+00:04:01,200 --> 00:04:05,080
+that doesn't identify that data spot
+with a particular person's property.
+
+70
+00:04:08,520 --> 00:04:10,320
+How much of Japan has been mapped?
+
+71
+00:04:10,480 --> 00:04:13,600
+We argue that we have been able
+to provide a wider coverage
+
+72
+00:04:13,760 --> 00:04:16,280
+of radiation surveys
+than the government has
+
+73
+00:04:16,440 --> 00:04:19,120
+because of the activities
+of very active volunteers.
+
+74
+00:04:19,280 --> 00:04:22,720
+Certainly, Fukushima
+has been repeatedly mapped
+
+75
+00:04:22,880 --> 00:04:24,520
+for three years or more.
+
+76
+00:04:24,680 --> 00:04:27,440
+There are a few corners
+no volunteers have been to,
+
+77
+00:04:27,600 --> 00:04:30,720
+so today we can go
+to a park in Koto Ward,
+
+78
+00:04:30,880 --> 00:04:33,640
+called Kiyosumi Park,
+and we can check that out.
+
+79
+00:04:37,960 --> 00:04:41,200
+We're looking
+at 0.1 microsieverts per hour.
+
+80
+00:04:41,360 --> 00:04:44,480
+This is about normal.
+Pretty average for Tokyo.
+
+81
+00:04:44,640 --> 00:04:48,480
+How does that compare with,
+say, the epicentre of the accident?
+
+82
+00:04:48,640 --> 00:04:52,400
+This is a piece of a deck that
+one of our volunteers was building
+
+83
+00:04:52,560 --> 00:04:54,840
+when the disaster happened
+in Koriyama,
+
+84
+00:04:55,000 --> 00:04:58,240
+which is one of the fairly
+radioactive places in Fukushima.
+
+85
+00:05:01,320 --> 00:05:02,840
+- Listen to that!
+- Yes.
+
+86
+00:05:03,000 --> 00:05:05,320
+You can hear it.
+It's like a scary noise.
+
+87
+00:05:05,480 --> 00:05:07,680
+It's already now 10 times
+what it was...
+
+88
+00:05:07,840 --> 00:05:11,680
+- This is a very radioactive sample.
+- That is significantly higher.
+
+89
+00:05:11,840 --> 00:05:15,480
+And this is the degree of fallout
+that was everywhere in that area.
+
+90
+00:05:15,640 --> 00:05:20,080
+Inside the highly radioactive places
+in Fukushima Daiichi reactor itself,
+
+91
+00:05:20,240 --> 00:05:22,240
+it's 1,000 times higher, or more.
+
+92
+00:05:22,400 --> 00:05:23,760
+We're getting to a point
+
+93
+00:05:23,920 --> 00:05:27,760
+where technically, because
+of the hardware and software tools,
+
+94
+00:05:27,920 --> 00:05:30,280
+things that were
+previously only possible
+
+95
+00:05:30,440 --> 00:05:33,600
+if you were a government
+or a large research institution,
+
+96
+00:05:33,760 --> 00:05:35,720
+now a highschool kid can do.
+
+97
+00:05:35,880 --> 00:05:39,000
+This is going to get better,
+quicker, easier and cheaper.
+
+98
+00:05:39,160 --> 00:05:41,240
+We are trying to show that potential.
+
+99
+00:05:41,400 --> 00:05:45,360
+This is an example of the agile
+development organisations can use
+
+100
+00:05:45,520 --> 00:05:48,360
+when they open up
+and engage their contributors.
+
+101
+00:05:48,520 --> 00:05:50,640
+By introducing privacy measures,
+
+102
+00:05:50,800 --> 00:05:53,440
+SafeCast has built confidence
+in their project
+
+103
+00:05:53,600 --> 00:05:55,680
+and trust amongst
+their collaborators.
+
+104
+00:05:55,840 --> 00:05:58,680
+This is an increasingly
+important consideration,
+
+105
+00:05:58,840 --> 00:06:02,760
+as by 2020 it's estimated
+that there will be 30-billion things
+
+106
+00:06:02,920 --> 00:06:05,000
+connected to the internet,
+
+107
+00:06:05,160 --> 00:06:08,560
+from transport, medical devices,
+to household objects,
+
+108
+00:06:08,720 --> 00:06:12,320
+all of which will be collecting
+and transmitting our information.
+
+109
+00:06:12,960 --> 00:06:16,560
+In the next episode, I'll explore
+the privacy and data implications
+
+110
+00:06:16,720 --> 00:06:22,560
+by spending 24 hours
+in a technology-laden smarthome.
+

@@ -1,0 +1,494 @@
+1
+00:00:04,960 --> 00:00:07,560
+Digital privacy
+doesn't always make headline news
+
+2
+00:00:07,720 --> 00:00:10,120
+unless celebrity nudes are leaked
+
+3
+00:00:10,280 --> 00:00:12,600
+or compromising corporate emails
+are made public.
+
+4
+00:00:13,840 --> 00:00:16,200
+But our relationship to the internet
+has reached
+
+5
+00:00:16,360 --> 00:00:18,880
+an unprecedented level
+of connectedness.
+
+6
+00:00:19,040 --> 00:00:23,080
+In this new environment, the state
+of privacy deserves a closer look.
+
+7
+00:00:24,640 --> 00:00:27,880
+In this series I will travel
+the world to undergo challenges
+
+8
+00:00:28,040 --> 00:00:31,080
+that will explore our digital life
+in the 21st century.
+
+9
+00:00:33,440 --> 00:00:35,000
+Let's look at how we got here.
+
+10
+00:00:35,840 --> 00:00:38,840
+Before the 1600s
+most people's homes were communal.
+
+11
+00:00:39,000 --> 00:00:41,480
+Life orientated
+around a central fireplace.
+
+12
+00:00:41,640 --> 00:00:44,240
+There was very little privacy
+or personal space.
+
+13
+00:00:45,240 --> 00:00:48,960
+And then a revolutionary
+new technology, the chimney.
+
+14
+00:00:50,240 --> 00:00:53,840
+People could lock themselves
+and their things in personal spaces.
+
+15
+00:00:54,000 --> 00:00:56,160
+They began
+to appreciate their privacy
+
+16
+00:00:56,320 --> 00:01:00,080
+and expect that what happened
+behind closed doors stayed there.
+
+17
+00:01:00,240 --> 00:01:03,520
+The rich have always had
+better control over their privacy.
+
+18
+00:01:03,680 --> 00:01:09,440
+In 1890s Boston, Warren and Brandeis
+were attorneys for the high society.
+
+19
+00:01:09,600 --> 00:01:12,160
+So, the next tech innovation
+came along.
+
+20
+00:01:12,320 --> 00:01:15,120
+Their clients had grown accustomed
+to letting their hair down
+
+21
+00:01:15,280 --> 00:01:16,240
+behind closed doors.
+
+22
+00:01:16,400 --> 00:01:20,960
+When photos of their parties landed
+on the front-pages of gossip rags,
+
+23
+00:01:21,120 --> 00:01:23,600
+they were suitably outraged
+and sued them.
+
+24
+00:01:23,760 --> 00:01:27,360
+They won
+and the right to privacy was born.
+
+25
+00:01:29,000 --> 00:01:32,960
+Now, that was fine until the next big
+tech innovation came along
+
+26
+00:01:33,120 --> 00:01:35,760
+and put a device
+into our homes and our pockets
+
+27
+00:01:35,920 --> 00:01:39,560
+that lets us air our dirty laundry
+to the world.
+
+28
+00:01:39,720 --> 00:01:43,120
+Our attitudes and the law
+haven't caught up yet.
+
+29
+00:01:47,520 --> 00:01:51,640
+I'm in Los Angeles to meet Max,
+a professional digital detective,
+
+30
+00:01:51,800 --> 00:01:54,920
+who protects business and celebrity
+online reputations.
+
+31
+00:01:55,080 --> 00:01:57,640
+I gave him just my name
+and then challenged him
+
+32
+00:01:57,800 --> 00:01:59,920
+to gather
+as much information about me
+
+33
+00:02:00,080 --> 00:02:02,680
+from what I'd willingly
+shared online.
+
+34
+00:02:03,880 --> 00:02:06,840
+- You ready to go through the box?
+- I'm a bit nervous, to be fair.
+
+35
+00:02:07,000 --> 00:02:10,360
+Let's walk you through it.
+This is scratching the surface.
+
+36
+00:02:11,600 --> 00:02:13,800
+This is a couple of hours of work.
+
+37
+00:02:14,640 --> 00:02:15,680
+That's pretty deep.
+
+38
+00:02:15,840 --> 00:02:18,360
+You have
+a pretty sizeable digital footprint
+
+39
+00:02:18,520 --> 00:02:21,760
+and most of this represents media
+that you put out yourself.
+
+40
+00:02:21,920 --> 00:02:25,720
+You might say to me, "I'm not worried
+about you revealing any information."
+
+41
+00:02:26,960 --> 00:02:31,000
+But if I'm looking to get you to do
+something you might not want to do,
+
+42
+00:02:31,160 --> 00:02:34,000
+I'm going to use anything
+at my disposal
+
+43
+00:02:34,160 --> 00:02:36,560
+to create
+some psychological leverage.
+
+44
+00:02:38,760 --> 00:02:42,040
+- All right. What is that?
+- Your personal media footprint.
+
+45
+00:02:42,200 --> 00:02:43,800
+Right. OK.
+
+46
+00:02:43,960 --> 00:02:47,560
+These are all terrible pictures
+that I took with silly hair and...
+
+47
+00:02:47,720 --> 00:02:49,840
+Lots and lots of selfies.
+
+48
+00:02:50,000 --> 00:02:52,760
+And places that you go
+that you yelp about.
+
+49
+00:02:52,920 --> 00:02:54,120
+Did I yelp?
+
+50
+00:02:54,280 --> 00:02:57,000
+Your location is revealed,
+documenting yourself
+
+51
+00:02:57,160 --> 00:02:58,640
+and capturing unintended clues.
+
+52
+00:02:58,800 --> 00:03:02,280
+All of this I've intended.
+Absolutely all of this I've intended.
+
+53
+00:03:02,440 --> 00:03:06,480
+You've got a grin on your face.
+That says we're about to dive into...
+
+54
+00:03:06,640 --> 00:03:09,680
+Yes. OK. So now we're getting...
+
+55
+00:03:09,840 --> 00:03:12,520
+How did you find all of my addresses?
+
+56
+00:03:13,960 --> 00:03:17,080
+Because you did a registration.
+You signed a document.
+
+57
+00:03:18,320 --> 00:03:21,200
+Your previous addresses,
+pieces of ownership.
+
+58
+00:03:21,360 --> 00:03:23,520
+- Yes.
+- And photographs from the inside.
+
+59
+00:03:23,680 --> 00:03:25,720
+Wow. Oh, my gosh.
+
+60
+00:03:25,880 --> 00:03:29,680
+- Because now that's on Airbnb.
+- A walk-through of your spaces.
+
+61
+00:03:29,840 --> 00:03:31,240
+Yes. My assets.
+
+62
+00:03:31,400 --> 00:03:34,800
+I'm gaining more and more
+personal information, including...
+
+63
+00:03:34,960 --> 00:03:38,400
+That's my business addresses,
+tax exemptions,
+
+64
+00:03:38,560 --> 00:03:40,040
+all of my company business.
+
+65
+00:03:40,200 --> 00:03:43,280
+Yes. Your worth. Your finances.
+
+66
+00:03:44,440 --> 00:03:46,160
+This goes into a larger question
+
+67
+00:03:46,320 --> 00:03:49,760
+of how companies are treating
+their technology and their policy
+
+68
+00:03:49,920 --> 00:03:51,320
+if they even have a policy.
+
+69
+00:03:51,480 --> 00:03:54,800
+In many cases
+I've seen it's an afterthought.
+
+70
+00:03:54,960 --> 00:03:59,480
+In start-up mode, many companies,
+they hire their developers
+
+71
+00:03:59,640 --> 00:04:02,840
+and then the information policy
+comes much, much later.
+
+72
+00:04:03,000 --> 00:04:06,320
+But doing it from the beginning,
+when you register that domain,
+
+73
+00:04:06,480 --> 00:04:09,800
+create these corporations,
+you're starting that footprint.
+
+74
+00:04:09,960 --> 00:04:12,280
+You need to control that
+from the beginning
+
+75
+00:04:12,440 --> 00:04:15,040
+and I'm going to come back
+to the human element
+
+76
+00:04:15,200 --> 00:04:17,920
+and the people that you care about
+and that you love
+
+77
+00:04:18,080 --> 00:04:21,760
+because you've done overall
+a very good job of hiding.
+
+78
+00:04:21,920 --> 00:04:25,280
+There are a few things I could use
+to exploit more information,
+
+79
+00:04:25,440 --> 00:04:30,040
+but if I'm looking to get you to do
+something you might not want to do,
+
+80
+00:04:30,200 --> 00:04:32,720
+here's where your human interactions
+betray you.
+
+81
+00:04:33,800 --> 00:04:35,680
+Your mum tweets about you.
+
+82
+00:04:35,840 --> 00:04:37,080
+Yes, she does.
+
+83
+00:04:37,240 --> 00:04:41,080
+And your mum doesn't button up
+her personal information.
+
+84
+00:04:41,240 --> 00:04:44,880
+And I found out where she lived
+and I sent somebody to her house.
+
+85
+00:04:45,040 --> 00:04:46,440
+No?!
+
+86
+00:04:46,600 --> 00:04:49,720
+- She wasn't home then.
+- I think she was here.
+
+87
+00:04:49,880 --> 00:04:51,520
+But I know where she lives.
+
+88
+00:04:51,680 --> 00:04:53,960
+That's recent
+because that's the new porch!
+
+89
+00:04:54,120 --> 00:04:56,720
+That's not an old photograph.
+
+90
+00:04:56,880 --> 00:04:58,720
+- That's creepy!
+- This was two days ago.
+
+91
+00:04:58,880 --> 00:05:00,240
+Yes, that's...
+
+92
+00:05:00,400 --> 00:05:02,880
+Your friends and your family
+might not be so tight.
+
+93
+00:05:03,040 --> 00:05:06,640
+What we're looking at here is a pile
+of things that have been indexed
+
+94
+00:05:06,800 --> 00:05:09,920
+and then over time,
+as software gets more sophisticated,
+
+95
+00:05:10,080 --> 00:05:12,560
+they'll get more searchable
+and obtainable.
+
+96
+00:05:12,720 --> 00:05:15,240
+We cast long digital shadows.
+
+97
+00:05:15,400 --> 00:05:17,880
+If an individual
+can leave this much of a mark,
+
+98
+00:05:18,040 --> 00:05:21,720
+imagine the footprint left by a
+business with hundreds of employees
+
+99
+00:05:21,880 --> 00:05:23,920
+all with the company email addresses,
+
+100
+00:05:24,080 --> 00:05:27,680
+all contributing
+to the collective online reputation.
+
+101
+00:05:27,840 --> 00:05:31,640
+But what happens when data that was
+never meant for public consumption
+
+102
+00:05:31,800 --> 00:05:34,200
+ends up in the wrong hands?
+
+103
+00:05:34,360 --> 00:05:37,080
+Rethinking privacy
+will become even more urgent
+
+104
+00:05:37,240 --> 00:05:40,280
+as we delve
+into the world of hacking.
+
